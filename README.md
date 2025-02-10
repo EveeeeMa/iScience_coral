@@ -1,2 +1,2 @@
 # iScience_coral
-data visualization code
+code used for data analysis and visualization in iscience article
